@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" rx="20" fill="#00417b"/>
+  <circle cx="60" cy="50" r="30" fill="#feae2c"/>
+  <polygon points="60,28 70,48 50,48" fill="#ffffff"/>
+  <rect x="45" y="48" width="30" height="15" fill="#ffffff" rx="2"/>
+  <text x="60" y="98" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">PEMDA</text>
+  <text x="60" y="110" fill="#feae2c" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">BANDAR LAMPUNG</text>
+</svg>
+

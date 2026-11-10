@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" rx="20" fill="#ffffff" stroke="#b1121b" stroke-width="4"/>
+  <circle cx="60" cy="50" r="28" fill="#b1121b"/>
+  <polygon points="60,30 76,58 44,58" fill="#feae2c"/>
+  <text x="60" y="55" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="900" text-anchor="middle">UTI</text>
+  <text x="60" y="96" fill="#b1121b" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">TEKNOKRAT</text>
+  <text x="60" y="108" fill="#64748b" font-family="Arial, sans-serif" font-size="7" font-weight="bold" text-anchor="middle">INDONESIA</text>
+</svg>
+
